@@ -18,6 +18,7 @@ import java.util.Scanner;
 //10.10 Вызываем у строки метод line.split() для работы по разделителю;
 //11.11 Выводим результат через Arrays.toString(num) потому что напрямую массив нельзя вызвать
 // В результате мы вывели наши данные которые были разделены 0, в массив и в консоль.
+
 public class Scanner2 {
     public static void main(String[] args) throws FileNotFoundException {
         String separator = File.separator;
