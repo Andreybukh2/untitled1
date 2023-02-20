@@ -10,7 +10,7 @@ public class Ticker implements Runnable {
         for (int i = 0; i < 10; i++) {
             System.out.println(name + "- " + i);
             try {
-                Thread.sleep(600); // Класс поток и фукция sleep
+                Thread.sleep(600);  // Класс поток и фукция sleep
             } catch (InterruptedException e) { // Когда поток прерывается
                 throw new RuntimeException(e);
             }

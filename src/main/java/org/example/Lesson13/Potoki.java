@@ -2,7 +2,6 @@ package org.example.Lesson13;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
 public class Potoki {
     public static void main(String[] args) {
         Ticker ticker1 = new Ticker("Potok1");
