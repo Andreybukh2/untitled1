@@ -9,7 +9,7 @@ public class Transport {
     this.name = name;
     }
     public void move (){
-        System.out.println("Транспорт перемещается в пространстве - ");
+        System.out.println("Транспорт перемещается в пространстве -");
     }
     public String toString(){
         return String.valueOf(id + " - " + name);

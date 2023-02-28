@@ -41,6 +41,7 @@ import java.util.List;
 // Затрону сразу операторы super и extends. В этом примере иерархия наследования следующая.
 // Object -> Transort -> Air. Используя extends Transport мы говорим что хотим использовать элементы Transport и потомков
 // этого класса, тоесть Air (идем вниз по иерархии), если используем super Transport, мы едем по иерархии вверх.
+
 public class Main {
     public static void main(String[] args) {
         List<Transport> transportList = new ArrayList<>();
