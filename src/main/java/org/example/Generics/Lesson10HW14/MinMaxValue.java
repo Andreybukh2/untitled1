@@ -1,4 +1,4 @@
-package org.example.HW14;
+package org.example.Generics.Lesson10HW14;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,7 +11,7 @@ public class MinMaxValue {
         list.add(55);
         list.add(37);
         list.add(18);
-        
+
         System.out.println(getValue(list));
         System.out.println(getValue(Integer.MAX_VALUE));
         System.out.println(getValue(Integer.MIN_VALUE));

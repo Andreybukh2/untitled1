@@ -4,17 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0803e584-4f32-4e90-a6a6-b70e82a45bc7" name="Changes" comment="Пример считать из консоли корректировка">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson12/Scanner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="0803e584-4f32-4e90-a6a6-b70e82a45bc7" name="Changes" comment="Техническое копирование">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Auto/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Auto/Cabriolet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Auto/CarVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Auto/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Auto/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Auto/ShowInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Auto/Wagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Lesson10HomeWork14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Lesson10HomeWork14/MaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Robot/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Robot/HEAD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Robot/Head1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Robot/Head2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Robot/Head3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Robot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Robot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Learning/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Lesson12/Exceptions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Lesson12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Lesson12/Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Lesson13/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test/AIRPLANE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Test1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson12/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson12/Scanner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Lesson12/Scanner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson12/Scanner2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Lesson12/Scanner2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dgenerics/MaxMin/Max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dgenerics/MaxMin/Min.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dgenerics/MaxMin/ShowValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dgenerics/MaxMin/Variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW14/Air.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Lesson10HW14/Air.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Lesson10HW14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW14/MinMaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Lesson10HW14/MinMaxValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW14/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Generics/Lesson10HW14/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Lesson13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Lesson13/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,20 +55,41 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="09baa31d-eba6-4245-a4c2-d33a04ba1ac0" />
+        <option name="url" value="https://github.com/Andreybukh2/untitled1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Lesson13/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -45,41 +97,47 @@
     </option>
   </component>
   <component name="ProjectId" id="2LkRAQq224VFdrTLzPIYof4bSgH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andbu/IdeaProjects/Untitled&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lesson12.Scanner1">
-    <configuration name="LESSON36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LESSON36" />
-      <module name="untitled1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson12.Scanner1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson12.Scanner1" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.Lesson13" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andbu\IdeaProjects\untitled1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.example.Learning.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Lesson10HW14.Main" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson12.*" />
+          <option name="PATTERN" value="org.example.Lesson10HW14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,19 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scanner1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scanner1" />
-      <module name="untitled1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scanner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson12.Scanner2" />
+    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Lesson10HW14t.MinMax" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson12.*" />
+          <option name="PATTERN" value="org.example.Lesson10HW14t.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,20 +158,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="org.example.Generics.Lesson10HomeWork14.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Generics.Lesson10HomeWork14.Main" />
       <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Generics.Lesson10HomeWork14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Learning.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Learning.Main" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Test.Main" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson12.Scanner1" />
-        <item itemvalue="Application.Scanner2" />
-        <item itemvalue="Application.Scanner1" />
-        <item itemvalue="Application.LESSON36" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.org.example.Learning.Main" />
+        <item itemvalue="Application.org.example.Generics.Lesson10HomeWork14.Main" />
+        <item itemvalue="Application.org.example.Test.Main" />
+        <item itemvalue="Application.MinMax" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +219,23 @@
       <workItem from="1676548614918" duration="1331000" />
       <workItem from="1676585128183" duration="18599000" />
       <workItem from="1676648865279" duration="793000" />
-      <workItem from="1676650686456" duration="338000" />
+      <workItem from="1676650686456" duration="813000" />
+      <workItem from="1676652103755" duration="289000" />
+      <workItem from="1676667128120" duration="17931000" />
+      <workItem from="1676757453834" duration="32014000" />
+      <workItem from="1676883759176" duration="70000" />
+      <workItem from="1676884032648" duration="84000" />
+      <workItem from="1676884175790" duration="18229000" />
+      <workItem from="1676905030577" duration="8811000" />
+      <workItem from="1677170310996" duration="145000" />
+      <workItem from="1677171031891" duration="255000" />
+      <workItem from="1677171362936" duration="666000" />
+      <workItem from="1677673143822" duration="40000" />
+      <workItem from="1677673624732" duration="1013000" />
+      <workItem from="1677674823978" duration="165000" />
+      <workItem from="1677676039746" duration="12127000" />
+      <workItem from="1677869351654" duration="1092000" />
+      <workItem from="1677870459531" duration="3007000" />
     </task>
     <task id="LOCAL-00001" summary="Пример считать из консоли">
       <created>1676650796630</created>
@@ -152,7 +251,70 @@
       <option name="project" value="LOCAL" />
       <updated>1676650929172</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Пример считать из консоли корректировка">
+      <created>1676651253915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676651253915</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Пример считать данные из файла">
+      <created>1676651344263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676651344263</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Пример считать данные из файла">
+      <created>1676651384750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676651384750</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Задание_12.2 Практическое">
+      <created>1676685017575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676685017576</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Пример входного потока без Сканнера и перевод bate в char">
+      <created>1676811911992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676811911992</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Пример рандомного вывода потоков">
+      <created>1676911675571</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676911675571</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Пример рандомного вывода потоков">
+      <created>1676911774376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676911774376</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Получение данных от User в файл через воод из кода, автоматическое добавление времени к правке от User, копирование файла в отдельном классе.">
+      <created>1676912415589</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676912415589</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Техническое копирование">
+      <created>1677674551540</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677674551540</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,9 +332,16 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Пример считать из консоли" />
     <MESSAGE value="Пример считать из консоли корректировка" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пример считать из консоли корректировка" />
+    <MESSAGE value="Пример считать данные из файла" />
+    <MESSAGE value="Задание_12.2 Практическое" />
+    <MESSAGE value="Пример входного потока без Сканнера и перевод bate в char" />
+    <MESSAGE value="Пример рандомного вывода потоков" />
+    <MESSAGE value="Получение данных от User в файл через воод из кода, автоматическое добавление времени к правке от User, копирование файла в отдельном классе." />
+    <MESSAGE value="Техническое копирование" />
+    <option name="LAST_COMMIT_MESSAGE" value="Техническое копирование" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -185,7 +354,21 @@
           <properties class="java.io.FileNotFoundException" package="java.io" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.GregorianCalendar" memberName="zone" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled1$Calc.ic" NAME="Calc Coverage Results" MODIFIED="1676680464274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.Lesson12.*</FILTER>
+    </SUITE>
   </component>
 </project>

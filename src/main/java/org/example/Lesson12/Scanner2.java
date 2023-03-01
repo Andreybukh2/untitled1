@@ -1,4 +1,4 @@
-package Lesson12;
+package org.example.Lesson12;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -22,8 +22,8 @@ import java.util.Scanner;
 public class Scanner2 {
     public static void main(String[] args) throws FileNotFoundException {
         String separator = File.separator;
-        String path = separator + "C:" + separator + "Users" + separator + "Andbu" + separator + "OneDrive" + separator +
-                "Рабочий стол" + separator + "new2";
+        String path = separator + "C:" + separator + "Users" + separator + "Andbu"
+                + separator + "OneDrive" + separator + "Рабочий стол" + separator + "new2";
         File file = new File(path);
         Scanner scanner = new Scanner(file);
         String line = scanner.nextLine(); // 8

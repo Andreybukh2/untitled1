@@ -1,4 +1,4 @@
-package Lesson12;
+package org.example.Lesson12;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

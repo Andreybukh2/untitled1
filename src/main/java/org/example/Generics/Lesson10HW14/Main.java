@@ -1,7 +1,4 @@
-package org.example.HW14;
-
-import java.util.ArrayList;
-import java.util.List;
+package org.example.Generics.Lesson10HW14;
 
 // Создадим список для объектов транспорта и разрешим помещать туда только объекты класса Train;
 // Создадим метод который будет принимать на вход лист транспорта под названием list;
@@ -42,6 +39,9 @@ import java.util.List;
 // Object -> Transort -> Air. Используя extends Transport мы говорим что хотим использовать элементы Transport и потомков
 // этого класса, тоесть Air (идем вниз по иерархии), если используем super Transport, мы едем по иерархии вверх.
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
         List<Transport> transportList = new ArrayList<>();
@@ -59,7 +59,7 @@ public class Main {
         showInfoWildcards(transportList);
         showInfoWildcards(airList);
     }
-//        private static void showInfo(List<Transport> list) {
+    //        private static void showInfo(List<Transport> list) {
 //        for (Transport transport : list) ;
 //        {
 //            System.out.println(list);
