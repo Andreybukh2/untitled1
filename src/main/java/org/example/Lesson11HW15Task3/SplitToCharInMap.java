@@ -1,7 +1,7 @@
 package org.example.Lesson11HW15Task3;
 
 import java.util.*;
-class SPLITTER {
+class SplitToCharInMap {
     public static void main(String[] args) {
         String userWord = "Превосходный день";
         char[] chars = userWord.toCharArray();
